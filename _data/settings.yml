@@ -54,11 +54,11 @@ hero:
   enable: true
   hero_avatar: /images/01-1.jpg
   hero_title: Hi! I’m Amit 👋
-  hero_subtitle: A digital explorer, coder, Java/OSGi/IoT evangelist, and a green software advocate
+  hero_subtitle: A digital explorer and coder, evangelizing Java/OSGi/IoT and advocating for green software
   hero_description: |
-    I’m a technophile. This blog is my personal knowledge base, dedicated to programming, AI, green software, IoT, and information freedom.
-
-    Here, I share the ideas, methods, and curated content that empower me to share information effectively while maintaining crucial control over my digital world. Dive in to discover insights, get inspired, and share your own thoughts!
+    For the technophile in all of us, this is my digital sanctuary. Think of it as my personal knowledge base, a place where I explore and unpack programming, AI, green software, IoT, and the empowering world of information freedom. 
+    
+    I'm passionate about sharing curated resources that help me disseminate information effectively and maintain true mastery over my digital life. Explore, get inspired, and join the conversation!
   hero_image: /images/01.jpg
   #hero_image_caption: My creative space, where masterpieces are born
   hero_button_text: Let’s Connect
