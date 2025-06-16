@@ -19,9 +19,9 @@ At its core, Wi-Fi sensing leverages the very nature of radio waves. Just like s
 
 Here's a breakdown of the key technical principles:
 
-1. **Channel State Information (CSI):** This is the heart of Wi-Fi sensing. CSI provides a detailed snapshot of how a Wi-Fi signal propagates through the environment at a given moment. It includes information about the signal's amplitude (strength), phase (timing), and angle of arrival/departure across different subcarriers (small frequency bands within the Wi-Fi channel). Think of it like a highly detailed fingerprint of the wireless channel.
+**Channel State Information (CSI):** This is the heart of Wi-Fi sensing. CSI provides a detailed snapshot of how a Wi-Fi signal propagates through the environment at a given moment. It includes information about the signal's amplitude (strength), phase (timing), and angle of arrival/departure across different subcarriers (small frequency bands within the Wi-Fi channel). Think of it like a highly detailed fingerprint of the wireless channel.
 
-2. **Interference and Perturbations:** When a person moves, breathes, or even just stands still in a room, they cause subtle, yet measurable, changes to the Wi-Fi signals. These changes manifest as variations in the CSI. For instance:
+**Interference and Perturbations:** When a person moves, breathes, or even just stands still in a room, they cause subtle, yet measurable, changes to the Wi-Fi signals. These changes manifest as variations in the CSI. For instance:
 
 **Movement Detection:** A moving body will cause significant fluctuations in the signal's amplitude and phase as it reflects and obstructs the waves.
 
@@ -29,7 +29,7 @@ Here's a breakdown of the key technical principles:
 
 **Breathing/Heartbeat Detection:** The minuscule movements of the chest wall during breathing or the circulatory system can cause periodic, tiny changes in the Wi-Fi signal's phase, which advanced algorithms can detect.
 
-3. **Signal Processing and Machine Learning:** Raw CSI data is incredibly complex. This is where the "magic" of signal processing and machine learning comes in.
+**Signal Processing and Machine Learning:** Raw CSI data is incredibly complex. This is where the "magic" of signal processing and machine learning comes in.
 
 **Filtering and Noise Reduction:** Techniques are used to remove environmental noise and isolate the relevant changes caused by human activity.
 
