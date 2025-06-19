@@ -1,5 +1,6 @@
 ---
-layout: AI-Powered Legacy Code Modernization - From Relic to Revolution
+layout: post
+title: AI-Powered Legacy Code Modernization - From Relic to Revolution
 date: 2025-06-12 09:10:30 +0200
 image: '/images/post-14.jpg'
 tags: [LLM]
@@ -46,11 +47,16 @@ This is where the magic of hands-on, AI-assisted development comes to life. A ne
 These are more than just autocomplete tools; they are active partners in the development process.
 
 **GitHub Copilot:** Perhaps the most well-known assistant, Copilot provides real-time code suggestions, completes functions, and can even translate snippets from one language to another. In a modernization context, a developer can start rewriting a function in a new language, and Copilot will intelligently suggest the modernized equivalent based on the logic of the original.
-**Specialized Modernization Platforms:** A new class of tools is offering end-to-end modernization capabilities.
-    - **Windward/Red Hat Windup:** Tools like these specialize in application migration. They analyze codebases (e.g., legacy Java applications) and provide detailed reports on the changes needed to move to a modern platform, sometimes even performing automated code transformations.
-    - **Bolt:** Often, legacy systems are tied to outdated build systems and dependency management. AI-powered tools in this space can analyze these configurations and help migrate them to modern equivalents like Maven, Gradle, or Docker.
-    - **Lovable:** This tool focuses on frontend modernization, using AI to automatically untangle and migrate legacy frontend code (like old AngularJS) to modern frameworks like React or Vue, while preserving functionality and design.
-    - **ROO Code & Other Refactoring Engines:** Advanced AI tools are being developed that can perform large-scale, automated refactoring. They can identify and fix anti-patterns, convert procedural code to object-oriented structures, and even begin to extract services from a monolith, all with minimal human intervention.
+
+**Specialized Modernization Platforms:** A new class of tools is offering end-to-end modernization capabilities:
+
+**Windward/Red Hat Windup:** Tools like these specialize in application migration. They analyze codebases (e.g., legacy Java applications) and provide detailed reports on the changes needed to move to a modern platform, sometimes even performing automated code transformations.
+
+**Bolt:** Often, legacy systems are tied to outdated build systems and dependency management. AI-powered tools in this space can analyze these configurations and help migrate them to modern equivalents like Maven, Gradle, or Docker.
+
+**Lovable:** This tool focuses on frontend modernization, using AI to automatically untangle and migrate legacy frontend code (like old AngularJS) to modern frameworks like React or Vue, while preserving functionality and design.
+
+**ROO Code & Other Refactoring Engines:** Advanced AI tools are being developed that can perform large-scale, automated refactoring. They can identify and fix anti-patterns, convert procedural code to object-oriented structures, and even begin to extract services from a monolith, all with minimal human intervention.
 
 ### Bulletproof Validation with AI-Generated Test Cases
 
