@@ -6,7 +6,6 @@ date: 2025-04-12 09:08:42 +0200
 image: '/images/post-5.jpg'
 tags: [Sustainability, GreenSoftware, CarbonAware]
 tags_color: '#ff4500'
-featured: true
 toc: true
 ---
 

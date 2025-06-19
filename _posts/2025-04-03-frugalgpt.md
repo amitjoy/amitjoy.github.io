@@ -7,7 +7,6 @@ image: '/images/post-3.jpg'
 tags: [LLM, AI]
 tags_color: '#f14979'
 toc: true
-featured: true
 ---
 
 Large Language Models (LLMs) like GPT-3, PaLM, and others have revolutionized how we interact with technology. From drafting emails to writing code and generating creative content, their capabilities are immense. However, this power often comes with a hefty price tag, especially when deployed at scale. Running queries on these sophisticated models can quickly accumulate significant operational costs. This is where the concept of **FrugalGPT** steps in, offering a smarter way to leverage LLMs without breaking the bank.

@@ -6,7 +6,6 @@ date: 2025-03-20 15:01:35 +0200
 image: '/images/post-2.jpg'
 tags: [IoT, SmartHome]
 tags_color: '#de47e2'
-featured: true
 toc: true
 ---
 

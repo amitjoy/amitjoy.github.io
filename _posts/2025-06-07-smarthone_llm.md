@@ -5,7 +5,6 @@ date: 2025-06-07 11:20:48 +0200
 image: '/images/post-9.jpg'
 tags: [LLM, IoT]
 tags_color: '#de47e2'
-featured: true
 toc: true
 ---
 
